@@ -9,8 +9,7 @@ function DraftProfile() {
   return (
     <div className="contaier flex justify-center flex-col">
       <button
-        className="p-10 text-4xl font-bold  text-gray-600  md:text-yellow-500 
-       lg:text-black xl:text-pink-400"
+        className="p-10 text-4xl font-bold text-amber-400 md:text-blue-600 lg:text-red-700 xl:text-pink-500"
         onClick={handleClick}
       >
         Go Home
